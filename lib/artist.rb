@@ -10,7 +10,6 @@ class Artist
   end
 
   def initialize
-    @name
     @songs = []
     Artist::artists << self
   end
