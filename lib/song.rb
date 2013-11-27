@@ -10,16 +10,3 @@ class Song
     genre.songs << self
   end
 end
-
-3 + 2 
-3.+(2)
-
-genre=(whatever) 
-
-a = Song.new
-b = Genre.new
-a.genre = b
-
-b @songs
-b.songs << 
-

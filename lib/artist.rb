@@ -1,5 +1,3 @@
-require 'ruby-debug'
-
 class Artist
   attr_accessor :name, :songs
 
